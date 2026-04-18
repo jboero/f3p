@@ -3,6 +3,8 @@
 Triage suspicious Android devices via ADB. Detects spoofed specs and known
 pre-installed malware.
 
+<img width="1933" height="1363" alt="Screenshot_20260417_151613" src="https://github.com/user-attachments/assets/735379d7-b1ed-4b2e-8869-0a055d3c2d10" />
+
 Named in the style of [f3 (Fight Flash Fraud)](https://github.com/AltraMayor/f3),
 which catches counterfeit USB sticks. `f3p` does the same for counterfeit
 Android phones and tablets: instead of trusting `getprop` or the "About phone"
