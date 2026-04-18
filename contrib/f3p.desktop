@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Fight Phone Fraud
+GenericName=Android Device Triage
+Comment=Detect spoofed specs and pre-installed malware on Android devices
+Exec=f3p gui
+Icon=security-high
+Terminal=false
+Categories=System;Security;Utility;
+Keywords=android;adb;malware;phone;security;forensics;
+StartupNotify=true
